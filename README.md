@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Madhur 👋
 
-## About
+I'm a passionate software developer who loves to build things that scale — from high-performance backend systems to sleek, interactive frontends.
 
-I'm a fullstack developer, working with the web on solutions related to data (like user personalization) and apps (with ReactJs and React Native), along with RESTful server services (using Python Django). I have a bachelor's degree in Computer Science Engineering and I'm currently working with JP Morgan Chase, India.
+- 💼 Currently building enterprise-grade microservices @ JPMorgan Chase, India.
+- 🚀 Crafting reusable component libraries, automating deployments, and drinking too much coffee
+- 🧠 Obsessed with clean code, system design, and pushing React + Spring Boot to their limits
+- 🤝 Always happy to collaborate, contribute, or mentor.
 
 ## Recent work and study
 
